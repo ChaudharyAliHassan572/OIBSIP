@@ -1,2 +1,5 @@
 # OIBSIP
-Oasis Infobyte Data Science Projects Welcome to the official repository for Data Science projects at Oasis Infobyte Internship. This repository is dedicated to hosting all relevant projects developed during my internship program.  Overview This repository contains a collection of Data Science Projects
+To Use this repository Projects Of DataScience. You just have to download the project file then open google collab and upload the Notebook
+
+Note:
+You must upload the Dataset in the google Collab
